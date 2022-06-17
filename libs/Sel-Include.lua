@@ -2540,4 +2540,3 @@ windower.raw_register_event('target change', target_change)
 
 -- Auto-initialize the include - Do this at the bottom so that other user-files can overwrite these functions.
 init_include()
-print("Init Included")
