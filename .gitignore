@@ -22,7 +22,7 @@ libs/rev1/*
 *_Gear.lua
 *_Crafting.lua
 *-Items.lua
-*-Globals.lua
+#*-Globals.lua
 data/*/
 
 
